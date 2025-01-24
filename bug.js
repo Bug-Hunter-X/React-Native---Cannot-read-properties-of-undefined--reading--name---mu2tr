@@ -1,0 +1,1 @@
+This React Native code results in an error because it attempts to access a property of an undefined object.  The `user` object might not be populated when the component mounts or renders.
